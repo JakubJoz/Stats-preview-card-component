@@ -2,7 +2,6 @@ body{
     margin: 0;
     padding: 0;
     background-color: hsl(233, 47%, 7%);
-    font-family: 'Red Hat Display', sans-serif;
 }
 
 .container{
@@ -37,6 +36,7 @@ h1{
     font-weight: 700;
     color: #fff;
     word-spacing: 3px;
+    font-family: 'Inter', sans-serif;
 }
 
 a{
@@ -50,6 +50,7 @@ p{
     width: 70%;
     word-spacing: 2px;
     color: hsla(0, 0%, 100%, 0.75);
+    font-family: 'Lexend Deca', sans-serif;
 }
 
 .container_box{
@@ -70,11 +71,13 @@ p{
     font-size: 26px;
     font-weight: 700;
     color: white;
+    font-family: 'Inter', sans-serif;
 }
 
 span{
     font-size: 12px;
     color: hsla(0, 0%, 100%, 0.6);
+    font-family: 'Inter', sans-serif;
 }
 
 .col-2{
